@@ -1,0 +1,5 @@
+class expo{
+public static void main(){
+system.out.println("My name is Arvind");
+}
+}
